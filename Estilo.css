@@ -1,0 +1,122 @@
+/* UI 1 */
+.one{
+    display: flex;
+    border: 2px solid black;
+}
+.TXT{
+    color: 	#1278d8;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 20px;
+}
+.home{
+    position: relative;
+    bottom: -34px;
+    left: 70px;
+    text-decoration: none;
+    color: black;
+}
+.produtos{
+    position: relative;
+    bottom: -34px;
+    right: -110px;
+    text-decoration: none;
+    color: black;
+}
+.serviços{
+    position: relative;
+    bottom: -34px;
+    left: 150px;
+    text-decoration: none;
+    color: black;
+}
+.contato{
+    position: relative;
+    bottom: -34px;
+    left: 190px;
+    text-decoration: none;
+    color: black;
+}
+
+/* UI 2 */
+
+.two{
+background-color: blueviolet;
+height: 100px;
+}
+
+.houme{
+    position: relative;
+    left: 500px;
+    top: 40px;
+    color: white;
+    text-decoration: none;
+}
+
+.cadastro{
+    position: relative;
+    left: 550px;
+    top: 40px;
+    color: white;
+    text-decoration: none;
+}
+
+.login{
+    position: relative;
+    left: 600px;
+    top: 40px;
+    color: white;
+    text-decoration: none;
+}
+
+.logout{
+    position: relative;
+    left: 650px;
+    top: 40px;
+    color: white;
+    text-decoration: none;
+}
+
+/* UI 3 */
+
+.three{
+    background-color: #069c06;
+}
+
+.hume{
+position: relative;
+left: 450px;
+top: 50px;
+text-decoration: none;
+color: white;
+}
+
+.cadatas{
+    position: relative;
+    left: 500px;
+    top: 50px;
+    text-decoration: none;
+    color: white;
+}
+
+.TXT1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.Logoin{
+    position: relative;
+    left: 750px;
+    bottom: 50px;
+    text-decoration: none;
+    color: white;
+}
+
+.Logoute{
+    position: relative;
+    left: 800px;
+    bottom: 50px;
+    text-decoration: none;
+    color: white;
+}
